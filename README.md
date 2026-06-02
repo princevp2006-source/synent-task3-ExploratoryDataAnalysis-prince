@@ -1,62 +1,36 @@
-# Exploratory Data Analysis - Task 3
+📊 Netflix Dataset - Exploratory Data Analysis (EDA)
+📌 Objective
 
-Welcome to the Exploratory Data Analysis project! This repository contains comprehensive analysis and insights derived from dataset exploration.
+Analyze the Netflix dataset to identify trends and patterns using statistics and visualizations.
 
-## Project Overview
-
-This project focuses on performing thorough exploratory data analysis (EDA) to uncover patterns, distributions, and relationships within the data.
-
-## Contents
-
-- Data loading and preprocessing
-- Statistical analysis and summary
-- Data visualization
-- Feature relationships and correlations
-- Insights and findings
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.7+
-- Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd synent-task3-ExploratoryDataAnalysis-prince
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the analysis notebooks or scripts:
-```bash
-jupyter notebook
-```
-
-## Key Findings
-
-[Add your key findings and insights here]
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests for any improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-
-**princevp2006-source**
-
----
-
-*Last updated: 2026-05-19*
+🛠️ Tools Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Google Colab
+📋 Tasks Performed
+Loaded and explored the dataset
+Checked missing values and data types
+Generated summary statistics
+Performed correlation analysis
+Created visualizations:
+Bar Chart
+Histogram
+Scatter Plot
+Heatmap
+Identified trends and patterns in Netflix content
+📈 Key Insights
+Movies are more common than TV Shows on Netflix.
+Netflix content has increased significantly over the years.
+Some countries contribute more content than others.
+Drama and International Movies are among the most popular genres.
+📂 Files
+Netflix_EDA.ipynb – Analysis notebook
+netflix_titles.csv – Dataset
+README.md – Project documentation
+🚀 How to Run
+Open the notebook in Google Colab or Jupyter Notebook.
+Install required libraries:
+pip install pandas matplotlib seaborn
+Run all cells.
